@@ -1,1 +1,1 @@
-Script that grants all permissiosn to users only
+Script that sets hello file to -rwxr-x-wx
