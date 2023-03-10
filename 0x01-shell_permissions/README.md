@@ -1,1 +1,1 @@
-Creating a directory with permissions mkdir
+script to  assign file , hello, ot new group owner, school
