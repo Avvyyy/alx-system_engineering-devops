@@ -1,1 +1,1 @@
-Script that sets hello file to -rwxr-x-wx
+Creating a directory with permissions mkdir
