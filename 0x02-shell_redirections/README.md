@@ -8,3 +8,4 @@ script that counts the number of directories and sub-directories in the current 
 The current and parent directories should not be taken into account
 Hidden directories should be counted
 Script to display all the files that have root in them from /etc/passwd
+Script to display the number of lines with bin from the /etc/passwd file
