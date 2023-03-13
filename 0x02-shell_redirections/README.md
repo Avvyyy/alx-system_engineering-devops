@@ -12,3 +12,4 @@ Script to display the number of lines with bin from the /etc/passwd file
 Script to print files with root in them and the next 3 lines after them
 Script to print all the files without a bin attcahment form /etc/passwd
 Script to prnt all the files that start with a letter from the named folder
+Script that replaces all As with Zs and cs with es
