@@ -1,1 +1,1 @@
-script to chnage current user to betty
+Script to print a confused smiley
