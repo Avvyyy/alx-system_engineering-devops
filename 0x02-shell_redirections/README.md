@@ -9,3 +9,4 @@ The current and parent directories should not be taken into account
 Hidden directories should be counted
 Script to display all the files that have root in them from /etc/passwd
 Script to display the number of lines with bin from the /etc/passwd file
+Script to print files with root in them and the next 3 lines after them
