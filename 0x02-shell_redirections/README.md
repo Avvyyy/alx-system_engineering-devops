@@ -1,1 +1,1 @@
-Script to display the content of the /etc/hosts and /etc/pssswd simultaneously
+Script ot print last ten lines of /etc/passwd
