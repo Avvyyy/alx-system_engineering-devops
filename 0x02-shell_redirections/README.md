@@ -1,1 +1,1 @@
-Script to read the content of /etc/shadow
+Script to display the content of the /etc/hosts and /etc/pssswd simultaneously
