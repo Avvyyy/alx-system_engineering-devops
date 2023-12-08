@@ -1,4 +1,5 @@
-sh script that will display information about subdomains.
+#!/usr/bin/env bash
+#bash script that will display information about subdomains.
 function domain_check {
 	domain_names=("www" "lb-01" "web-01" "web-02")
 
